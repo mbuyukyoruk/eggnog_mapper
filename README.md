@@ -33,10 +33,10 @@ Input Paramaters (REQUIRED):
 Parameters [optional]:
 ----------------------
 
-	-g/--gene	    COG, COG_Category or PFAM		Specify type of gene is reported (i.e., COG, COG_Category, PFAM) (default: COG)
+	-g/--gene	    	COG, COG_Category or PFAM	Specify type of gene is reported (i.e., COG, COG_Category, PFAM) (default: COG)
 
-	-f/--filter 	    Number   		                Specify a number for reporting clusters. For example use number 5 to show COG annotation with more than 5 occurences. use 1 to show all COG annotations. (default: 5)
+	-f/--filter		Number				Specify a number for reporting clusters. For example use number 5 to show COG annotation with more than 5 occurences. use 1 to show all COG annotations. (default: 5)
 
 Basic Options:
 --------------
-	-h/--help		    HELP                        Shows this help text and exits the run.
+	-h/--help		HELP                        	Shows this help text and exits the run.
